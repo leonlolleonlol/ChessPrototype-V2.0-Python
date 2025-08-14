@@ -1,2 +1,2 @@
 # ChessPrototype-V2.0-Python
-An much improved version of ChessPrototype-V1.0-Java
+A much improved version of [ChessPrototype-V1.0-Java](https://github.com/leonlolleonlol/ChessPrototype-V1.0-Java)
